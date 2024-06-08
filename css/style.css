@@ -1,7 +1,45 @@
-.attribution {
-  font-size: 11px;
+html {
+  font-size: 62.5%;
+}
+body {
+  background: #7d889e;
+  font-family: "Outfit", sans-serif;
+  font-size: 1.4rem;
   text-align: center;
+  /* using grid to push .attribution to the far 
+  bottom of the page  and also center horizontally */
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: 1fr 1fr;
+  justify-items: center;
+}
+.wrapper {
+  width: 32rem;
+  background-color: #fff;
+  padding: 1.6rem;
+  border-radius: 12px;
+  color: #7d889e;
+  margin-top: 7rem;
+}
+
+.wrapper img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.wrapper h1 {
+  color: #1f314f;
+}
+
+.wrapper p {
+  font-size: 1.8rem;
+}
+
+.attribution {
+  font-size: 1.4rem;
+  padding: 4rem 1rem;
+  align-self: end; /* to the bottom of the page */
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: blue;
 }
