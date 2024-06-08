@@ -35,8 +35,7 @@ Set up my workspace and the tools (prettier, git and path intellisense) needed. 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- CSS Grid
+- CSS
 - Mobile-first workflow
 
 ### What I learned
