@@ -30,8 +30,6 @@ solution.
 
 ## My process
 
-Set up my workspace and the tools (prettier, git and path intellisense) needed. structure my HTML before moving to CSS to complete the my design.
-
 ### Built with
 
 - Semantic HTML5 markup
