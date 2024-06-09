@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is the finished design of the challenge on the QR code component
@@ -40,8 +38,6 @@ solution.
 
 I used CSS Grid to make sure that the attribution always stays at the bottom of the page.
 
-To see how you can add code snippets, see below:
-
 ```html
 <div class="attribution">
   Challenge by
@@ -66,9 +62,7 @@ body {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ## Author
 
 - Frontend Mentor - [@Flashdaniel](https://www.frontendmentor.io/profile/Flashdaniel)
-- Linkedin - [@yourusername](https://www.linkedin.com/in/daniel-nweze-017909214/)
+- Linkedin - [@Nweze Daniel](https://www.linkedin.com/in/daniel-nweze-017909214/)
