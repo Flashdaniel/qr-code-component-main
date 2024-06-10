@@ -1,11 +1,15 @@
 html {
   font-size: 62.5%;
 }
+
 body {
   background: #d5e1ef;
   font-family: "Outfit", sans-serif;
   font-size: 1.4rem;
   text-align: center;
+}
+
+main {
   /* using grid to push .attribution to the far 
   bottom of the page  and also center horizontally */
   display: grid;
@@ -20,7 +24,6 @@ body {
   border-radius: 12px;
   color: #7d889e;
   margin-top: 7rem;
-  box-shadow: 0 4px 4px 0 gray;
 }
 
 .wrapper img {
