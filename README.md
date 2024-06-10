@@ -48,7 +48,7 @@ I used CSS Grid to make sure that the attribution always stays at the bottom of 
 ```
 
 ```css
-body {
+Main {
   display: grid;
   grid-template-columns: 1fr;
   grid-auto-rows: 1fr 1fr;
